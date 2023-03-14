@@ -11,3 +11,4 @@ dependencies:
   - azureml-defaults
 files:
 - scaler.pkl
+- model.h5
